@@ -10,7 +10,7 @@ This repo is a demonstration of using Highcharts with its accessibility features
 
 - Integration of Highcharts in a React project.
 - Configuration and use of Highcharts' accessibility module.
-- Example charts demonstrating different types of data visualizations.
+- Example charts demonstrating different types of data visualisations.
 - TypeScript for type safety and better developer experience.
 - Vite for fast development and build processes.
 
